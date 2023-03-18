@@ -12,11 +12,11 @@ This Application is my Altschoolafrica submission for 3rd semester
 
 - Create Account
 
-    <img width="1140" alt="create-account" src="https://user-images.githubusercontent.com/68978339/226108658-a77667fe-4f50-4fd6-b87d-0349c19e57f6.png">
+<img width="1140" alt="create-account" src="https://user-images.githubusercontent.com/68978339/226108658-a77667fe-4f50-4fd6-b87d-0349c19e57f6.png">
 
 - Sign In
 
-<img width="1140" alt="login" src="https://user-images.githubusercontent.com/68978339/226108501-37b5a3cb-64d4-48ad-8502-d4ef5e7b7108.png)">
+<img width="1140" alt="login" src="https://user-images.githubusercontent.com/68978339/226109542-5d11b007-b83f-484e-9c53-5546c0fc2b19.png)">
 
 - Account Sign Up Error log
 
