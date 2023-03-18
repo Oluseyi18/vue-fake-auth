@@ -14,7 +14,7 @@ This Application is my Altschoolafrica submission for 3rd semester
 
     <img width="1140" alt="create-account" src="https://user-images.githubusercontent.com/68978339/226108658-a77667fe-4f50-4fd6-b87d-0349c19e57f6.png">
 
-  - Sign In
+- Sign In
 
 <img width="1140" alt="login" src="https://user-images.githubusercontent.com/68978339/226108501-37b5a3cb-64d4-48ad-8502-d4ef5e7b7108.png)">
 
