@@ -24,11 +24,11 @@ This Application is my Altschoolafrica submission for 3rd semester
 
 - Incorrect Email orPassword Error log
 
-  <img width="1140" alt="inavlid-password" src="(https://user-images.githubusercontent.com/68978339/226108927-7d901f77-a85a-4094-bd4c-6db47f10d0b5.png">
+  <img width="1140" alt="incorrect-details" src="(https://user-images.githubusercontent.com/68978339/226108927-7d901f77-a85a-4094-bd4c-6db47f10d0b5.png">
 
 - 404 Page
 
-  <img width="1140" alt="inavlid-password" src="(https://user-images.githubusercontent.com/68978339/226109102-c871cf3e-5056-4dd6-af71-519059ad2260.png">
+  <img width="1140" alt="404-page" src="(https://user-images.githubusercontent.com/68978339/226109102-c871cf3e-5056-4dd6-af71-519059ad2260.png">
 
 Scheme: "https"
 
