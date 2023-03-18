@@ -5,7 +5,7 @@ This Application is my Altschoolafrica submission for 3rd semester
     - Login & Registration
     - user check (if user is logged in)
 
-### Demo url: https://mocked-vuejs-auth.vercel.app
+### Demo url: https://vue-fake-auth.vercel.app
 
 ### DEMO
 
