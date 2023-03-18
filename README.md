@@ -1,29 +1,34 @@
-## Mocked Authentication Project
+## Fake Authentication Product Site (Vue.js)
 
 This Application is my Altschoolafrica submission for 3rd semester
 
     - Login & Registration
     - user check (if user is logged in)
+    - 404 Page
 
-### Demo url: https://mocked-vuejs-auth.vercel.app
+### Demo url: https://vue-fake-auth.vercel.app
 
 ### DEMO
 
 - Create Account
 
-    <img width="1140" alt="create-account" src="https://user-images.githubusercontent.com/66668114/223439307-b2a13242-c44e-488d-a6cc-52d46a4d531f.png">
+    <img width="1140" alt="create-account" src="https://user-images.githubusercontent.com/68978339/226108658-a77667fe-4f50-4fd6-b87d-0349c19e57f6.png">
 
-  - Login
+  - Sign In
 
-<img width="1140" alt="login" src="https://user-images.githubusercontent.com/66668114/223439532-1029a6a6-a12b-413e-a47c-4781c3807d22.png">
+<img width="1140" alt="login" src="https://user-images.githubusercontent.com/68978339/226108501-37b5a3cb-64d4-48ad-8502-d4ef5e7b7108.png)">
 
-- No Account Error log
+- Account Sign Up Error log
 
-  <img width="1140" alt="no-account" src="https://user-images.githubusercontent.com/66668114/223439819-b72ccb3d-c4b5-44ed-88ff-e367f16c16f9.png">
+  <img width="1140" alt="no-account" src="https://user-images.githubusercontent.com/68978339/226108766-e2682c90-33d7-4e93-b02c-cf00b922d32c.png">
 
-- Invalid Password Error log
+- Incorrect Email orPassword Error log
 
-  <img width="1140" alt="inavlid-password" src="https://user-images.githubusercontent.com/66668114/223440049-ff11ba31-9821-4ada-9ca9-ca5194b40f5b.png">
+  <img width="1140" alt="inavlid-password" src="(https://user-images.githubusercontent.com/68978339/226108927-7d901f77-a85a-4094-bd4c-6db47f10d0b5.png">
+
+- 404 Page
+
+  <img width="1140" alt="inavlid-password" src="(https://user-images.githubusercontent.com/68978339/226109102-c871cf3e-5056-4dd6-af71-519059ad2260.png">
 
 Scheme: "https"
 
@@ -33,28 +38,26 @@ Scheme: "https"
 
 ```
 {
-"id": 1,
-"first_name": "Blyncnov",
-"last_name": "Jerry",
-"email": "blyncnov@altschool.com",
-"password": "taiwo@altschool"
-},
-
-{
-"id": 2,
-"first_name": "admin",
-"last_name": "admin",
-"email": "admin@altschool.com",
-"password": "admin"
-},
-
-{
-"id": 3,
-"first_name": "user",
-"last_name": "user",
-"email": "user@altschool.com",
-"password": "user"
-}
+  id: 1,
+        first_name: 'Oluseyi',
+        last_name: 'Ajibade',
+        email: 'eezi@altschool.com',
+        password: 'eezi@altschool'
+      },
+      {
+        id: 2,
+        first_name: 'admin',
+        last_name: 'admin',
+        email: 'admin@altschool.com',
+        password: 'admin'
+      },
+      {
+        id: 3,
+        first_name: 'user',
+        last_name: 'user',
+        email: 'user@altschool.com',
+        password: 'user'
+      }
 ```
 
 ## Built With
@@ -66,6 +69,4 @@ Scheme: "https"
 
 ## Developer Information
 
-- Website [`Blyncnov`](https://pro-blyncnov.vercel.app).
-- Twitter [`@jeremytechie`](https://twitter.com/jeremytechie).
-- Linkedin [`Taiwo Boluwatife`](https://linkedin.com/in/blyncnov).
+- Website [`EeziCodez`](https://oluseyi18.github.io/Eezi-Codez/).
