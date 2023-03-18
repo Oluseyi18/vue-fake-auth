@@ -41,21 +41,21 @@ Scheme: "https"
   id: 1,
         first_name: 'Oluseyi',
         last_name: 'Ajibade',
-        email: 'eezi@altschool.com',
-        password: 'eezi@altschool'
+        email: 'eezi@gmail.com',
+        password: 'eezi@gmail'
       },
       {
         id: 2,
         first_name: 'admin',
         last_name: 'admin',
-        email: 'admin@altschool.com',
+        email: 'admin@gmail.com',
         password: 'admin'
       },
       {
         id: 3,
         first_name: 'user',
         last_name: 'user',
-        email: 'user@altschool.com',
+        email: 'user@gmail.com',
         password: 'user'
       }
 ```
